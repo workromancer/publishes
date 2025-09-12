@@ -32,6 +32,29 @@
         • 🔥 Real-time code reviews and feedback
         • 🎨 From design to deployment, A to Z
         • 💬 Ask anything you're curious about!
+  buttons:
+    - name:
+        ko: "커뮤니티 참여하기"
+        en: "Join Community"
+      icon: "discord"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://discord.gg/jNthUJXA"
+    - name:
+        ko: "사용해보기"
+        en: "Try Lovable!"
+      icon: "rocket"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://lovable.dev?via=aiu-landing-notices"
 - uuid: "550e8400-e29b-41d4-a716-446655440001"
   date: "2025-08-25"
   hot: true
@@ -62,6 +85,18 @@
       - image: "/lovable-uploads/452a078e-b55e-4f03-99d4-1fb5ed1954b1.png"
         title: "🔧 Supabase Integration"
         description: "Easily connect all backend features including database, authentication, and APIs with Supabase to create a complete full-stack app."
+  buttons:
+    - name:
+        ko: "사용해보기"
+        en: "Try Lovable!"
+      icon: "rocket"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://lovable.dev?via=aiu-landing-notices"
 - uuid: "550e8400-e29b-41d4-a716-446655440002"
   date: "2025-08-22"
   hot: true
@@ -92,6 +127,18 @@
         • Personalized learning with AI tutors
         • Real-time code review and feedback system
         • Vibe coding certification program
+  buttons:
+    - name:
+        ko: "사용하러 가기"
+        en: "Try Vooster.ai !"
+      icon: "rocket"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://www.vooster.ai"
 - uuid: "550e8400-e29b-41d4-a716-446655440003"
   date: "2025-08-22"
   hot: true
@@ -122,6 +169,18 @@
         • Monthly Lovable hackathons
         • AI development lectures and workshops
         • Official Lovable promotion opportunities for outstanding works
+  buttons:
+    - name:
+        ko: "사용해보기"
+        en: "Try Lovable!"
+      icon: "rocket"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://lovable.dev?via=aiu-landing-notices"
 - uuid: "550e8400-e29b-41d4-a716-446655440004"
   date: "2025-08-22"
   hot: true
@@ -164,4 +223,4 @@
         • AI tutor system introduction
         • 24-hour virtual library opening
         • Real-time exchange program with global students
-
+        

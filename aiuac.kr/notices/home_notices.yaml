@@ -1,3 +1,63 @@
+- uuid: "f5b3c1a0-7d8e-4f6a-8c1d-9e0b2a3f4c5d"
+  date: "2025-09-14"
+  hot: true
+  type: 'post'
+  ko:
+    category: "성공사례"
+    title: "Google Veo3로 한 달만에 인스타 릴스 1420만 조회수 달성!"
+    content:
+      text: |
+        1. 구글 Veo3 AI로 야심차게 유튜브 시작 🚀
+        ➡️ 하지만 결과는 처참한 실패. '내가 만들고 싶은 영상'과 '사람들이 보는 영상'은 완전히 달랐다.
+
+        2. 주력 플랫폼을 인스타 릴스로 변경 📲
+        ➡️ 대학생 커뮤니티 '에타' 드립에서 힌트를 얻음. '타겟'과 '재미'가 이미 검증된 콘텐츠에 집중하기로.
+
+        3. 킬러 콘텐츠 하나가 터지자... 💥
+        ➡️ 알고리즘의 선택을 받음. 프로필 방문자가 폭증하며 다른 영상들까지 역주행 시작.
+
+        4. 결론: 한 달 만에 1420만 뷰 달성 ✨
+        ➡️ 실패에서 얻은 데이터로 성공 공식을 찾았다.
+  en:
+    category: "Case Study"
+    title: "Achieved 14.2M Instagram Reels Views in One Month with Google Veo3!"
+    content:
+      image: null
+      text: |
+        1. Started a YouTube channel with Google's Veo3 AI 🚀
+        ➡️ But it was a total flop. What I wanted to create vs. what people actually watch were two different things.
+
+        2. Pivoted to Instagram Reels 📲
+        ➡️ Found a goldmine in memes from a university student community. Decided to focus on content with a proven audience and guaranteed laughs.
+
+        3. Then, one killer Reel went viral... 💥
+        ➡️ The algorithm picked it up. Profile visits exploded, causing older videos to trend.
+
+        4. The result: 14.2 million views in 1 month ✨
+        ➡️ Found the winning formula through the data from my failure.
+  buttons:
+    - name:
+        ko: "강의록 보기"
+        en: "View Notes"
+      icon: "notion"
+      ratio: 2
+      color:
+        light: "#000000"
+        dark: "#000000"
+      action:
+        type: "open_link"
+        url: "https://kaput-archduke-aec.notion.site/Google-Veo3-1420-26dfbed9b54580ff97c7d7709a45dfe3?source=copy_link"
+    - name:
+        ko: "인스타그램"
+        en: "Instagram"
+      icon: "instagram"
+      ratio: 1
+      color:
+        light: "#E4405F"
+        dark: "#E4405F"
+      action:
+        type: "open_link"
+        url: "https://www.instagram.com/aiu.ac.kr"
 - uuid: "550e8400-e29b-41d4-a716-446655440005"
   date: "2025-09-07"
   hot: true

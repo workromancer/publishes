@@ -66,8 +66,8 @@
         - KakaoTalk Channel: Woowahan Techcourse
   buttons:
     - name:
-        ko: "입학설명회 유튜브"
-        en: "Info Session (YouTube)"
+        ko: "유튜브"
+        en: "YouTube"
       icon: "youtube"
       ratio: 1
       color:

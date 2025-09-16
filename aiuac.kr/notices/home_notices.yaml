@@ -77,8 +77,8 @@
         type: "open_link"
         url: "https://www.youtube.com/@woowatech"
     - name:
-        ko: "공식홈페이지"
-        en: "Official Website"
+        ko: "홈페이지"
+        en: "Website"
       icon: "globe"
       ratio: 1
       color:
@@ -88,8 +88,8 @@
         type: "open_link"
         url: "https://www.woowacourse.io/"
     - name:
-        ko: "카카오톡 채널 문의"
-        en: "KakaoTalk Channel"
+        ko: "카카오톡"
+        en: "KakaoTalk"
       icon: "chat"
       ratio: 1
       color:

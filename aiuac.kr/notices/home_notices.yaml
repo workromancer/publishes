@@ -80,7 +80,7 @@
         ko: "공식홈페이지"
         en: "Official Website"
       icon: "globe"
-      ratio: 2
+      ratio: 1
       color:
         light: "#0F172A"
         dark: "#0F172A"

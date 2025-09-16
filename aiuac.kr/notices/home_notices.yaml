@@ -7,6 +7,7 @@
     title: "✨ 우아한테크코스 8기 모집 안내"
     content:
       image: "https://raw.githubusercontent.com/workromancer/publishes/refs/heads/main/aiuac.kr/notices/images/woowacourse.png"
+      imageMode: "fit-height"
       text: |
         우아한형제들이 지원하는 개발자 성장 프로그램, 우아한테크코스에서 8기를 모집합니다.
 

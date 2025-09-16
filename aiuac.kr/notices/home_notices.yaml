@@ -1,3 +1,102 @@
+- uuid: "b7f2a9c1-3e54-4a0a-9f2c-7e1a9d3c0e88"
+  date: "2025-09-16"
+  hot: true
+  type: "post"
+  ko:
+    category: "모집공고"
+    title: "✨ 우아한테크코스 8기 모집 안내"
+    content:
+      image: "https://raw.githubusercontent.com/workromancer/publishes/refs/heads/main/aiuac.kr/notices/images/woowacourse.png"
+      text: |
+        우아한형제들이 지원하는 개발자 성장 프로그램, 우아한테크코스에서 8기를 모집합니다.
+
+        우테코는 프로그래밍과 개발에 관심 있는 분들을 대상으로
+        👉 5주간의 프리코스(pre-course) 진행 후, 최종 합격자를 선발합니다.
+        최종 합격자는 2026년 2월부터 약 10개월간 정식 교육을 받게 됩니다.
+
+        📌 모집 분야
+        - 웹 백엔드
+        - 웹 프론트엔드
+        - 모바일 안드로이드
+
+        📅 주요 일정
+        - 입학설명회: 2025.9.24(수) 오전 10:30, 유튜브 라이브 (채널: 우아한테크)
+        - 서류접수: 2025.9.29(월) 15:00 ~ 10.10(금) 10:00
+        - 프리코스: 2025.10.14(화) ~ 11.17(월)
+        - 1차 합격자 발표: 2025.12.29(월) 15:00
+        - 최종 테스트: 2026.1.10(토)
+        - 최종 합격자 발표: 2026.1.23(금) 15:00
+        - 본코스 시작: 2026.2.24(화) 10:00
+
+        📝 지원 방법
+        👉 우아한테크코스 홈페이지에서 확인
+
+        📮 문의
+        - 카카오톡 채널: 우아한테크코스
+  en:
+    category: "Announcement"
+    title: "✨ Woowahan Techcourse (WTC) 8th Cohort Applications"
+    content:
+      image: null
+      text: |
+        Woowa Brothers' developer growth program, Woowahan Techcourse (WTC), is now recruiting for its 8th cohort.
+
+        After a 5-week pre-course, final candidates will be selected.
+        Successful candidates will join a ~10-month full course starting February 2026.
+
+        📌 Tracks
+        - Web Backend
+        - Web Frontend
+        - Mobile Android
+
+        📅 Key Dates (KST)
+        - Info Session: 2025-09-24 (Wed) 10:30 AM — YouTube Live (channel: woowatech)
+        - Application Window: 2025-09-29 (Mon) 15:00 → 2025-10-10 (Fri) 10:00
+        - Pre-course: 2025-10-14 (Tue) → 2025-11-17 (Mon)
+        - 1st Results: 2025-12-29 (Mon) 15:00
+        - Final Test: 2026-01-10 (Sat)
+        - Final Results: 2026-01-23 (Fri) 15:00
+        - Main Course Start: 2026-02-24 (Tue) 10:00
+
+        📝 How to Apply
+        👉 Check details on the official WTC website.
+
+        📮 Contact
+        - KakaoTalk Channel: Woowahan Techcourse
+  buttons:
+    - name:
+        ko: "입학설명회 유튜브"
+        en: "Info Session (YouTube)"
+      icon: "youtube"
+      ratio: 1
+      color:
+        light: "#FF0000"
+        dark: "#FF0000"
+      action:
+        type: "open_link"
+        url: "https://www.youtube.com/@woowatech"
+    - name:
+        ko: "공식홈페이지"
+        en: "Official Website"
+      icon: "globe"
+      ratio: 2
+      color:
+        light: "#0F172A"
+        dark: "#0F172A"
+      action:
+        type: "open_link"
+        url: "https://www.woowacourse.io/"
+    - name:
+        ko: "카카오톡 채널 문의"
+        en: "KakaoTalk Channel"
+      icon: "chat"
+      ratio: 1
+      color:
+        light: "#FEE500"
+        dark: "#FEE500"
+      action:
+        type: "open_link"
+        url: "https://pf.kakao.com/_budWj"
 - uuid: "f5b3c1a0-7d8e-4f6a-8c1d-9e0b2a3f4c5d"
   date: "2025-09-14"
   hot: true

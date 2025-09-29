@@ -2,21 +2,24 @@
   {
     "id": "ee410e52-5c91-4869-b1aa-a9012678457b",
     "order": "1",
-    "name": "Veo3(영상)",
+    "name": "Veo3",
+    "subName": "영상 제작",
     "url": "https://gemini.google.com/gem/1ZCn4AZrDV1NtjwRxNH36KKDXXZ8pgHux?usp=sharing",
     "icon": "https://github.com/workromancer/publishes/blob/main/aiuac.kr/profile/icons/veo3_app_logo.png?raw=true"
   },
   {
     "id": "ea66c935-cc99-4ac2-9a17-afb57219812e",
     "order": "2",
-    "name": "Nano banana(이미지)",
+    "name": "Nano banana",
+    "subName": "이미지 제작",
     "url": "https://gemini.google.com/gem/11CSsOyxzB2iwq4MSDpGE7_5XekM2WQCC?usp=sharing",
     "icon": "https://github.com/workromancer/publishes/blob/main/aiuac.kr/profile/icons/nanobanana_app_logo.png?raw=true"
   },
   {
     "id": "ca205849-e38f-4d2e-881c-2a61f56e07cf",
     "order": "3",
-    "name": "Storybook(동화책)",
+    "name": "Storybook",
+    "subName": "동화책 제작",
     "url": "https://gemini.google.com/gem/1pLWXP1867O9Ppk7xkJi7uQCuzKVmOeuC?usp=sharing",
     "icon": "https://github.com/workromancer/publishes/blob/main/aiuac.kr/profile/icons/storybook_app_logo.png?raw=true"
   },
@@ -24,13 +27,15 @@
     "id": "9b4dd791-aae9-4b87-8485-6531f78eabba",
     "order": "4",
     "name": "Lovable",
+    "subName": "바이브코딩",
     "url": "https://gemini.google.com/gem/1kKzNszb5rFbbv9Z3O2MGv1gC11GPrBnR?usp=sharing",
     "icon": "https://github.com/workromancer/publishes/blob/main/aiuac.kr/profile/icons/lovable_app_logo.png?raw=true"
   },
   {
     "id": "746eecd9-18fa-4263-bfca-422da1050634",
     "order": "5",
-    "name": "Pickaboo(포토부스)",
+    "name": "Pickaboo",
+    "subName": "포토부스",
     "url": "https://gemini.google.com/gem/1nMCazQydlwCo8ELY78IqlQoZsfJ8AJKd?usp=sharing",
     "icon": "https://github.com/workromancer/publishes/blob/main/aiuac.kr/profile/icons/pickaboo_app_logo.png?raw=true"
   }

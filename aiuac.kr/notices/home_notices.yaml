@@ -1,3 +1,131 @@
+- uuid: "25a0f2d6-b67e-4e37-b465-e3836fb2f73c"
+  date: "2025-10-18"
+  hot: true
+  type: 'post'
+  ko:
+    category: "행사안내"
+    title: "에이아이대학교, 서초 문화예술공원 특별 부스 안내"
+    content:
+      image: "https://raw.githubusercontent.com/workromancer/publishes/refs/heads/main/aiuac.kr/notices/images/seocho-ai-fest.jpg"
+      imageMode: "fit-height"
+      text: |
+        에이아이대학교가 서초 문화예술공원에서 특별 체험 부스를 엽니다. AI 기술을 직접 만지고 경험하며 놀라운 순간들을 체험해보세요!
+
+        [📅 행사 안내]
+        • 일시: 2025년 10월 18일 (토) 11:00 - 19:00
+        • 장소: 서초 문화예술공원
+
+        [✨ 주요 활동]
+        • AI 게임 제작: AI를 이용해 나만의 게임을 만들어보세요.
+        • veo3 영상 제작: veo3으로 멋진 영상을 손쉽게 제작할 수 있습니다.
+        • nanobanana 이미지 생성: nanobanana로 상상 속 이미지를 현실로 만들어보세요.
+        • pickboo 포토부스: 오늘의 즐거운 추억을 사진으로 남기세요.
+        • 뽑기 이벤트: 특별한 굿즈를 받을 수 있는 기회!
+
+        [💻 온라인 참여]
+        • 현장에 오지 못하시나요? 걱정마세요!
+        • '에이아이대학교 강의실' 유튜브 채널에서 부스 체험과 강의를 실시간으로 제공합니다.
+        • 강의 자료는 행사 당일 공개될 예정이니 많은 기대 바랍니다.
+  en:
+    category: "Event Guide"
+    title: "AI University Special Booth at Seocho Culture & Arts Park"
+    content:
+      image: "https://raw.githubusercontent.com/workromancer/publishes/refs/heads/main/aiuac.kr/notices/images/seocho-ai-fest.jpg"
+      imageMode: "fit-height"
+      text: |
+        AI University is opening a special booth at Seocho Culture and Arts Park! Come touch and experience AI technology firsthand and witness amazing moments.
+
+        [📅 Event Information]
+        • Date: October 18, 2025 (Sat)
+        • Location: Seocho Culture and Arts Park
+
+        [✨ Main Activities]
+        • AI Game Creation: Create your own game using AI.
+        • veo3 Video Creation: Easily produce stunning videos with veo3.
+        • nanobanana Image Generation: Bring your imagined images to life with nanobanana.
+        • pickboo Photo Booth: Capture today's happy memories in photos.
+        • Prize Draw Event: A chance to win special merchandise!
+
+        [💻 Online Participation]
+        • Can't make it to the event? No worries!
+        • The 'AI University Lecture Hall' YouTube channel will provide a live stream of the booth experience and lectures.
+        • Lecture materials will be released on the day of the event, so please look forward to it.
+  buttons:
+    - name:
+        ko: "강의실"
+        en: "Lecture"
+      icon: "youtube"
+      ratio: 1
+      color:
+        light: "#FF0000"
+        dark: "#FF0000"
+      action:
+        type: "open_link"
+        url: "https://www.youtube.com/@aiu_ac_kr"
+    - name:
+        ko: "피카부"
+        en: "pickaboo"
+      icon: "globe"
+      ratio: 1
+      color:
+        light: "#8A2BE2"
+        dark: "#8A2BE2"
+      action:
+        type: "open_link"
+        url: "https://pickaboo.kr"
+    - name:
+        ko: "Lovable"
+        en: "Lovable"
+      icon: "rocket"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://lovable.dev?via=aiu-landing-notices"
+- uuid: "550e8400-e29b-41d4-a716-446655440003"
+  date: "2025-08-22"
+  hot: true
+  type: 'post'
+  ko:
+    category: "특별소식"
+    title: "Lovable x 에이아이대학교 파트너십 체결"
+    content:
+      image: "/lovable-uploads/610f8424-5746-4c30-90ab-202093b88fa6.png"
+      text: |
+        에이아이대학교가 Lovable과 파트너십을 맺었습니다. 이번 협력을 통해 학생들은 AI 기반 개발 도구인 Lovable을 활용하여 더욱 혁신적인 프로젝트를 진행할 수 있게 될 예정입니다.
+
+        [🎉 주요 혜택]
+        • 행사 참여시 Lovable 약 3만원 상당 코드 제공
+        • Lovable 해커톤 개최
+        • AI 개발 특강 및 워크샵 진행
+        • 우수 작품 Lovable 공식 홍보 기회
+  en:
+    category: "Special News"
+    title: "Lovable x AI University Partnership"
+    content:
+      image: "/lovable-uploads/610f8424-5746-4c30-90ab-202093b88fa6.png"
+      text: |
+        AI University has partnered with Lovable. Through this collaboration, students will be able to carry out more innovative projects using Lovable, an AI-based development tool.
+
+        [🎉 Key Benefits]
+        • Receive a Lovable code (worth approx. 30,000 KRW) for event participation
+        • A Lovable Hackathon will be held
+        • Special lectures and workshops on AI development
+        • Opportunity for outstanding projects to be officially promoted by Lovable
+  buttons:
+    - name:
+        ko: "사용해보기"
+        en: "Try Lovable!"
+      icon: "rocket"
+      ratio: 1
+      color:
+        light: "#7289DA"
+        dark: "#7289DA"
+      action:
+        type: "open_link"
+        url: "https://lovable.dev?via=aiu-landing-notices"
 - uuid: "b7f2a9c1-3e54-4a0a-9f2c-7e1a9d3c0e88"
   date: "2025-09-16"
   hot: true
@@ -301,88 +429,5 @@
       action:
         type: "open_link"
         url: "https://www.vooster.ai"
-- uuid: "550e8400-e29b-41d4-a716-446655440003"
-  date: "2025-08-22"
-  hot: true
-  type: 'post'
-  ko:
-    category: "특별소식"
-    title: "Lovable x 에이아이대학교 홍보대사 위촉"
-    content:
-      image: "/lovable-uploads/610f8424-5746-4c30-90ab-202093b88fa6.png"
-      text: |
-        에이아이대학교가 Lovable과 홍보 파트너십을 맺었습니다. 이번 협력을 통해 학생들은 AI 기반 개발 도구인 Lovable을 활용하여 더욱 혁신적인 프로젝트를 진행할 수 있게 될 예정입니다.
 
-        [🎉 주요 혜택]
-        • 행사 참여시 Lovable 약 3만원 상당 코드 제공
-        • Lovable 해커톤 개최
-        • AI 개발 특강 및 워크샵 진행
-        • 우수 작품 Lovable 공식 홍보 기회
-  en:
-    category: "Special News"
-    title: "Lovable x AI University Partnership Ambassador Appointment"
-    content:
-      image: "/lovable-uploads/610f8424-5746-4c30-90ab-202093b88fa6.png"
-      text: |
-        AI University has formed a promotional partnership with Lovable. Through this collaboration, students will be able to conduct more innovative projects using Lovable, an AI-based development tool.
-
-        [🎉 Key Benefits]
-        • Event participation: code offered (~₩30,000)
-        • Monthly Lovable hackathons
-        • AI development lectures and workshops
-        • Official Lovable promotion opportunities for outstanding works
-  buttons:
-    - name:
-        ko: "사용해보기"
-        en: "Try Lovable!"
-      icon: "rocket"
-      ratio: 1
-      color:
-        light: "#7289DA"
-        dark: "#7289DA"
-      action:
-        type: "open_link"
-        url: "https://lovable.dev?via=aiu-landing-notices"
-- uuid: "550e8400-e29b-41d4-a716-446655440004"
-  date: "2025-08-22"
-  hot: true
-  type: 'post'
-  ko:
-    category: "학사공지"
-    title: "2025학년도 9월 가을학기 개강 안내"
-    content:
-      image: "/lovable-uploads/7292ac3b-39d8-4141-a3cf-c220961d04f1.webp"
-      text: |
-        2025학년도 9월 가을학기가 곧 시작됩니다. 모든 학생들은 개강 전 필수 사항들을 확인해주시기 바랍니다.
-
-        [📅 주요 일정]
-        • 개강일: 2025년 9월 2일 (월)
-        • 수강신청 기간: 8월 20일 ~ 8월 30일
-        • OT 및 신입생 환영회: 9월 1일
-        • 가상 캠퍼스 업데이트: 8월 25일
-
-        [✨ 새로운 변화]
-        • 모든 강의실이 VR 환경으로 업그레이드
-        • AI 튜터 시스템 도입
-        • 24시간 가상 도서관 오픈
-        • 글로벌 학생들과의 실시간 교류 프로그램
-  en:
-    category: "Academic Notice"
-    title: "Fall Semester 2025 Opening Guide"
-    content:
-      image: "/lovable-uploads/7292ac3b-39d8-4141-a3cf-c220961d04f1.webp"
-      text: |
-        The Fall 2025 semester will begin soon. All students should check the essential items before the semester starts.
-
-        [📅 Key Schedule]
-        • Opening Day: September 2, 2025 (Mon)
-        • Course Registration: August 20 - August 30
-        • Orientation & Welcome Event: September 1
-        • Virtual Campus Update: August 25
-
-        [✨ New Changes]
-        • All classrooms upgraded to VR environment
-        • AI tutor system introduction
-        • 24-hour virtual library opening
-        • Real-time exchange program with global students
         
